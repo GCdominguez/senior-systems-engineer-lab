@@ -1,12 +1,22 @@
 # Senior Systems Engineer Lab
 
-This repo documents my preparation for a Senior Systems Engineer interview, focused on Windows endpoint engineering, PowerShell automation, Intune, Autopilot, Entra ID, device compliance, software deployment, and troubleshooting.
+This repo documents my preparation for a Senior Systems Engineer interview, focused on Windows endpoint engineering, PowerShell automation, Intune, Autopilot, Entra ID, compliance, software deployment, and endpoint troubleshooting.
+
+## Purpose
+
+The goal of this lab is to demonstrate how I think about endpoint lifecycle management: provisioning, identity, configuration, compliance, application deployment, monitoring, remediation, and retirement.
 
 ## Structure
 
 - `diagrams/` — Windows endpoint lifecycle diagrams
 - `scripts/` — PowerShell inventory, compliance, and remediation scripts
 - `notes/` — study notes and interview prep
+
+## Current Artifacts
+
+- Endpoint inventory script
+- Service remediation script
+- Windows endpoint lifecycle notes
 
 ## Focus Areas
 
@@ -18,3 +28,4 @@ This repo documents my preparation for a Senior Systems Engineer interview, focu
 - Detection rules and compliance
 - PowerShell scripting
 - ARM vs x64 deployment considerations
+- REST/JSON troubleshooting
