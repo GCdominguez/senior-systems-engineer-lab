@@ -29,3 +29,7 @@ The goal of this lab is to demonstrate how I think about endpoint lifecycle mana
 - PowerShell scripting
 - ARM vs x64 deployment considerations
 - REST/JSON troubleshooting
+
+## Windows Endpoint Lifecycle Diagram
+
+![Windows Endpoint Lifecycle](diagrams/DeviceLifecycle.drawio.svg)
