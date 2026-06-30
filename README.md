@@ -33,3 +33,7 @@ The goal of this lab is to demonstrate how I think about endpoint lifecycle mana
 ## Windows Endpoint Lifecycle Diagram
 
 ![Windows Endpoint Lifecycle](diagrams/DeviceLifecycle.drawio.svg)
+
+## Windows Endpoint Lifecycle Diagram
+
+![Windows Endpoint Lifecycle](diagrams/windows-endpoint-lifecycle.drawio.svg)
